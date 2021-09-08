@@ -1,0 +1,15 @@
+{
+  "name": "module_a",
+  "version": "1.0.0",
+  "description": "模块A",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "weitongxue",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "vue": "^2.6.14"
+  }
+}
